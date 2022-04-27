@@ -26,3 +26,4 @@ go build
     "total":2
 }
 ```
+git config --global http.sslVerify "false"
